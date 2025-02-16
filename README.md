@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @little-truth
-- 👀 I’m interested in changing careers (maybe!)
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on beginner projects.
-- 📫 How to reach me ...
+- 👀 I’m studying information systems and analytics. 
+- 🌱 I’m currently learning HTML, CSS, R, and RapidMiner/Ai Studio. 
+- 💞️
 
 <!---
 little-truth/little-truth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
